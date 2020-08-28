@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #c4f0f5
+}
+
+.header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+    margin: 20px auto;
+    
+    width: 50%;
+    border: 3px solid green;
+    padding: 20px
+    
+}
+.center {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    border: 3px solid green;
+    
+  }
+.question {
+    color: #494257
+    
+}
+.btn:hover {
+    background: salmon;
+}
